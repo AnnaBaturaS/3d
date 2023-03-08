@@ -1,0 +1,26 @@
+<svg width="928" height="928" viewBox="0 0 928 928" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_320_2)">
+<path d="M928 464C928 720.26 720.26 928 464 928C207.74 928 0 720.26 0 464C0 207.74 207.74 0 464 0C720.26 0 928 207.74 928 464Z" fill="#906C4F"/>
+<path d="M907 468C907 712.662 708.662 911 464 911C219.338 911 21 712.662 21 468C21 223.338 219.338 25 464 25C708.662 25 907 223.338 907 468Z" fill="#575E94"/>
+<path d="M884 466C884 697.96 695.96 886 464 886C232.04 886 44 697.96 44 466C44 234.04 232.04 46 464 46C695.96 46 884 234.04 884 466Z" fill="url(#paint0_radial_320_2)"/>
+</g>
+<path d="M927 464C927 719.708 719.708 927 464 927C208.292 927 1 719.708 1 464C1 208.292 208.292 1 464 1C719.708 1 927 208.292 927 464ZM906 468C906 712.11 708.11 910 464 910C219.89 910 22 712.11 22 468C22 223.89 219.89 26 464 26C708.11 26 906 223.89 906 468ZM464 912C709.214 912 908 713.214 908 468C908 222.786 709.214 24 464 24C218.786 24 20 222.786 20 468C20 713.214 218.786 912 464 912ZM883 466C883 697.407 695.407 885 464 885C232.593 885 45 697.407 45 466C45 234.593 232.593 47 464 47C695.407 47 883 234.593 883 466ZM464 887C696.512 887 885 698.512 885 466C885 233.488 696.512 45 464 45C231.488 45 43 233.488 43 466C43 698.512 231.488 887 464 887Z" stroke="black" stroke-opacity="0.5" stroke-width="2"/>
+<defs>
+<filter id="filter0_i_320_2" x="0" y="0" width="928" height="944" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="16"/>
+<feGaussianBlur stdDeviation="13.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.678431 0 0 0 0 0.521569 0 0 0 0 0.403922 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_320_2"/>
+</filter>
+<radialGradient id="paint0_radial_320_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(464 466) rotate(90) scale(449)">
+<stop offset="0.66075" stop-color="#2B2228"/>
+<stop offset="0.760417" stop-color="#685042"/>
+<stop offset="0.885417" stop-color="#685042"/>
+<stop offset="0.992855" stop-color="#1A1516"/>
+</radialGradient>
+</defs>
+</svg>
